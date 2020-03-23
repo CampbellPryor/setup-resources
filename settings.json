@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Predawn",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "window.openFoldersInNewWindow": "on",
+    "zenMode.hideTabs": false,
+    "zenMode.fullScreen": false,
+    "workbench.activityBar.visible": true,
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=120",
+    ],
+    "window.zoomLevel": 0,
+    "python.dataScience.askForKernelRestart": false
+}
